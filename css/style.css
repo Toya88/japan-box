@@ -1,10 +1,10 @@
 * {
 	box-sizing: border-box;
 }
+
 body {
     margin: 0px;
     padding: 0px;
-     
 }
 .wrapper {
    margin:20px auto 0;
@@ -13,9 +13,10 @@ body {
 }
 
 h1 {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: font-family: 'Fjalla One', sans-serif;
     font-size: 45px;
     text-align: center;
+    color: #45373a;
 }
 
 #header-img {
@@ -25,16 +26,13 @@ h1 {
 #nav-bar ul {
   list-style: none;
   top: 0px;
-  /* right: 200px; */
   position: fixed;
  
   
 }
 
 #nav-bar li {
-    
-    display: inline;
-  font-family: sans-serif; 
+  display: inline; 
   font-size: 20px; 
   line-height: 1.4; 
   
@@ -56,13 +54,13 @@ h1 {
 }
 
 h2 {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: font-family: 'Fjalla One', sans-serif;
     font-size: 35px;
     text-align: center;
     color: rgb(13, 95, 13);
 }
 p {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Livvic', sans-serif;
     font-size: 20px;
     color:brown; 
 }
@@ -73,19 +71,10 @@ p {
     justify-content: center;
     
 }
-/* .orders {
-    margin-top: 60px;
-    
-} */
 
-h2 {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 30px;
-    text-align: center;
-    color: rgb(15, 153, 15);
 }
 h3 {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: font-family: 'Fjalla One', sans-serif;
     font-size: 27px;
     text-align: center;
     color: rgb(206, 10, 10);
