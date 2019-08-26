@@ -1,10 +1,10 @@
 * {
 	box-sizing: border-box;
 }
-
 body {
     margin: 0px;
     padding: 0px;
+     
 }
 .wrapper {
    margin:20px auto 0;
@@ -13,10 +13,10 @@ body {
 }
 
 h1 {
-    font-family: font-family: 'Fjalla One', sans-serif;
+    font-family: 'Fjalla One', sans-serif;
     font-size: 45px;
     text-align: center;
-    color: #45373a;
+    color: #423737;
 }
 
 #header-img {
@@ -27,12 +27,13 @@ h1 {
   list-style: none;
   top: 0px;
   position: fixed;
- 
-  
+
 }
 
 #nav-bar li {
-  display: inline; 
+    font-family: 'Livvic', sans-serif;
+    display: inline;
+  font-family: sans-serif; 
   font-size: 20px; 
   line-height: 1.4; 
   
@@ -54,7 +55,7 @@ h1 {
 }
 
 h2 {
-    font-family: font-family: 'Fjalla One', sans-serif;
+    font-family: 'Fjalla One', sans-serif;
     font-size: 35px;
     text-align: center;
     color: rgb(13, 95, 13);
@@ -72,9 +73,8 @@ p {
     
 }
 
-}
 h3 {
-    font-family: font-family: 'Fjalla One', sans-serif;
+    font-family: 'Fjalla One', sans-serif;
     font-size: 27px;
     text-align: center;
     color: rgb(206, 10, 10);
